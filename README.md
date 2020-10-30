@@ -1,0 +1,1 @@
+Required ROOT 6.22 or higher.
